@@ -1,0 +1,23 @@
+{
+  "title": "Analysis code for migrasome-related genes in ulcerative colitis",
+  "description": "Analysis code for bulk transcriptome, single-cell transcriptome, GWAS summary statistics, and spatial transcriptome analyses of migrasome-related genes in ulcerative colitis. The repository contains the analysis scripts, environment records, and documentation. Raw data are available from GEO (GSE87466, GSE75214, GSE214695, GSE189184) and OpenGWAS (ieu-a-32).",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "publication_date": "2026-10-28",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Yue, Zhaoran",
+      "affiliation": "Department of Gastrointestinal Surgery, Yichang Central People’s Hospital, Affiliated Central People's Hospital, China Three Gorges University"
+    }
+  ],
+  "keywords": [
+    "ulcerative colitis",
+    "migrasome",
+    "single-cell RNA sequencing",
+    "spatial transcriptomics",
+    "bioinformatics"
+  ]
+}

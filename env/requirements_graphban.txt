@@ -1,0 +1,18 @@
+# Core GraphBAN dependencies (Google Colab environment)
+# Versions from pip freeze at analysis time (colab_pip_freeze.txt) and the GraphBAN repository requirements.txt
+
+torch==2.11.0+cu128
+prettytable==3.18.0
+pyarrow==18.1.0
+transformers==5.16.1
+networkx==3.6.1
+matplotlib==3.10.0
+pandas==2.2.3
+numpy==2.1.3
+torch_geometric==2.6.1
+torchmetrics==1.6.0
+dgl==2.4.0+cu118
+dgllife==0.3.2
+rdkit==2024.3.6
+fair-esm==2.0.0
+yacs==0.1.8

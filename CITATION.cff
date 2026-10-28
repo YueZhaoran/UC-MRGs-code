@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the metadata below."
+title: "Analysis code for migrasome-related genes in ulcerative colitis"
+abstract: "Analysis code for bulk transcriptome, single-cell transcriptome, GWAS, and spatial transcriptome analyses of migrasome-related genes in ulcerative colitis."
+authors:
+  - family-names: "Yue"
+    given-names: "Zhaoran"
+    affiliation: "Department of Gastrointestinal Surgery, Yichang Central People’s Hospital, Affiliated Central People's Hospital, China Three Gorges University,"
+version: "1.0.0"
+date-released: "2026-10-28"
+license: MIT
+repository-code: "https://github.com/YueZhaoran/UC-MRGs-code"
+keywords:
+  - ulcerative colitis
+  - migrasome
+  - single-cell RNA sequencing
+  - spatial transcriptomics
+  - bioinformatics
